@@ -6,7 +6,11 @@ Click on "Interactive Apps"
 
 Select "RStudio Apptainer" to launch the RStudio session configurator:
 
+<table>
+<td>
 <img src="www/OnDemand-RStudioApptainerConfigure.png" alt="Open OnDemand RStudio Apptainer Configuration" width=480 height=520 style="border: 2px solid gray;">
+</td>
+</table>
 
 Enter the Account and Partition for your lab, along with your required session duration (Wait Time), number of CPUs, and amount of memory
  
@@ -14,7 +18,11 @@ At the bottom of the page, click "Launch"
 
 Under "My Interactive Sessions," a new RStudio Apptainer window will appear:
 
-<img src="www/OnDemand-RStudioApptainerLaunch.png" alt="Open OnDemand RStudio Apptainer Configuration" width=600 height=200 style="border: 2px solid gray;">
+<table>
+<td>
+<img src="www/OnDemand-RStudioApptainerLaunch.png" alt="Open OnDemand RStudio Apptainer Launch" width=600 height=200 style="border: 2px solid gray;">
+</td>
+</table>
 
 Notice the Time Remaining (until session termination, updated in real-time) 
 
@@ -22,7 +30,7 @@ Click "Connect to RStudio Server"
 
 Your RStudio session and panels will appear:
 
-<img src="www/OnDemand-RStudioWindows.png" alt="Open OnDemand RStudio Apptainer Configuration" width=1000 height=700 style="border: 2px solid gray;">
+<img src="www/OnDemand-RStudioWindows.png" alt="Open OnDemand RStudio Window Panes" width=1000 height=700 style="border: 2px solid gray;"> 
 
 Use the Upload and Export (under "More") feaures of the Files tab in the lower-right panel to upload and download files
 
