@@ -19,9 +19,9 @@ This repo contains example scripts that demonstrate efficient use of R on the Du
     Solving fixed effects regression problems using sparse matix methods and Rcpp
   </li>
   <li>
-    Using Slurm sbatch and srun commands for scheduling and executing R scripts
+    Using the Slurm sbatch and srun commands for scheduling and executing R scripts
   </li>
   <li>
-    Assessing DCC core, GPU, and memory resource usage 
+    Assessing DCC core, GPU, and memory usage 
   </li>
 </ul>
