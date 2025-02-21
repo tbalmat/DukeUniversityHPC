@@ -19,6 +19,8 @@ This repo contains example scripts that demonstrate efficient use of R on the Du
     Solving fixed effects regression problems using sparse matix methods and Rcpp
   </li>
   <li>
+    Using alternative Basic Linear Algebra Subprograms (BLAS) and Linear Algebra Package (LAPACK) modules 
+  <li>
     Using the Slurm sbatch and srun commands for scheduling and executing R scripts
   </li>
   <li>
