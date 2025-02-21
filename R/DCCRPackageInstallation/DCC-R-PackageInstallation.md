@@ -31,11 +31,7 @@ OnDemand RStudio presents an RStudio session that is executing on the DCC.  RStu
 
 <br>
 <figure>
-<table>
-<td>
-<img src="www/Figure01.png" alt="RStudio console and terminal window" width=360 height=250 style="border: 2px solid gray;">
-</td>
-</table>
+<img src="www/Figure01.png" alt="RStudio console and terminal window" width=456 height=352 style="border: 2px solid gray;">
 <figcaption>Figure 1, RStudio Console and Terminal window</figcaption>
 </figure>
   
