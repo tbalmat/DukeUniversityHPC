@@ -12,7 +12,9 @@ This repo contains example scripts that demonstrate efficient use of R on the Du
   <li>
     Improving performance with C++ and the Rcpp package
   </li>
+  <li>
     Implementing large scale linear algebra on a GPU using cuda
+  </li>
   <li>
     Solving fixed effects regression problems using sparse matix methods and Rcpp
   </li>
