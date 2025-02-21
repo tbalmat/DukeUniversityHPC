@@ -1,7 +1,7 @@
 # Duke University High Performance Computing Cluster
 Example R Applications
 
-This repo contains example scripts that demonstrate efficient use of R on the Duke Computing Cluster (DCC).  Topics include:
+This repo contains example scripts and resources that demonstrate efficient use of R on the Duke Computing Cluster (DCC).  Topics include:
 <ul>
   <li>
     Replacing for loops with apply() and related functions
