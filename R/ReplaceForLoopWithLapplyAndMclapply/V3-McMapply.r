@@ -1,7 +1,7 @@
 # Duke University Computing Cluster
 # For loops, lapply(), and mclapply()
 # Example 3:  Implement lapply() in parallel using mclapply()
-# In this version, mslapply() replaces lapply()
+# In this version, mclapply() replaces lapply()
 # The results of mclapply() are identical to those of lapply() corresponds to site i
 # The environment variable SLURM_CPUS_PER_TASK reports the number of cores available
 # This is the maximum number of simultaneous tasks that can be executed and is specified using the
