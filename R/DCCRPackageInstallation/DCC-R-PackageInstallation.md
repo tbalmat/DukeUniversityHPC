@@ -31,10 +31,14 @@ OnDemand RStudio presents an RStudio session that is executing on the DCC.  RStu
 
 <br>
 <figure>
-<img src="www/Figure01.png" alt="RStudio console and terminal window" width=480 height=320 style="border: 2px solid gray;">
+<table>
+<td>
+<img src="www/Figure01.png" alt="RStudio console and terminal window" width=360 height=250 style="border: 2px solid gray;">
+</td>
+</table>
 <figcaption>Figure 1, RStudio Console and Terminal window</figcaption>
 </figure>
-
+  
 ## Background
 
 To install a package, source files are downloaded from a repository then decompressed, compiled, and saved in a local directory.  Various R commands allow you to review and specify the current source repository, install a package, and load installed packages.  To <b>review the current source repository</b> (where, by default, packages are downloaded from), use the ````options("repos")```` command.  Example:
