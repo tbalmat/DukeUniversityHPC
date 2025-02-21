@@ -4,6 +4,12 @@ Example R Applications
 This repo contains example scripts and resources that demonstrate efficient use of R on the Duke Computing Cluster (DCC).  Topics include:
 <ul>
   <li>
+    Using RStudio in Open OnDemand
+  </li>
+  <li>
+    Installing packages in OnDemand and command line R environments
+  </li>
+  <li>
     Replacing for loops with apply() and related functions
   </li>
   <li>
